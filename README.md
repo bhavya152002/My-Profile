@@ -60,3 +60,4 @@ Thanks for downloading from https://awaikenthemes.com
 "# My-Profile" 
 "# My-Profile" 
 "# My-Profile" 
+"# My-profile" 
